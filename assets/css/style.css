@@ -2,19 +2,25 @@ body{
   font-family: 'Karma', serif;
   /* background-color:rgba(20, 3, 3, 0.733); */
   color: rgb(188, 184, 204);
-  /* background-image: url("../images/background.jpg"); */
+  background-image: url("../images/metro-map.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .navbar{
   background-color: rgba(15, 2, 2, 0.452);
   border: 0px;
-  color: rgba(219, 219, 219, 0.944);
+  color: rgba(250, 246, 246, 0.89);
+}
+
+.navbar-header {
+  padding-left: 300px;
   text-align: center;
+  font-family: 'Leckerli One', cursive;
 }
 
 .fontclass{
-  color: rgba(255, 255, 255, 0.8);
-  text-align: center;
+  color: rgba(255, 255, 255, 0.822);
 }
 
 .images{
